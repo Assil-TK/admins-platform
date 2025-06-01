@@ -14,7 +14,7 @@ const LoginButton = () => {
       onClick={handleLogin}
       sx={{ mt: 2 }}
     >
-      Login with GitHub
+      Login with GitHub testt
     </Button>
   );
 };
