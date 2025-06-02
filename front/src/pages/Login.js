@@ -7,7 +7,7 @@ const Home = () => {
     <Container maxWidth="sm">
       <Box sx={{ mt: 10, textAlign: 'center' }}>
         <Typography variant="h4" gutterBottom>
-          Welcome to Admins Platform
+          Welcome to GenieAI
         </Typography>
         <LoginButton />
       </Box>
